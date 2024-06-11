@@ -1,0 +1,8 @@
+Flask
+pika[amqp]
+redis
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Swagger
+python-dotenv
+pytest
